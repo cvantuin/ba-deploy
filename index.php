@@ -1,7 +1,7 @@
  <?php 
  #echo "I am VERSION 7 ";
- $AUTHOR = "Anyonmous" ;
+ $AUTHOR = 'Anonymous' ;
  $AUTHOR = getenv('DEMO_TEXT') ;
- echo "V5 by $AUTHOR " ;
+ echo "V6 by $AUTHOR " ;
  echo "My Pod IP is : ".$_SERVER['SERVER_ADDR'] ;
  ?>
