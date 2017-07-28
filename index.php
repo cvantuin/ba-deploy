@@ -1,6 +1,6 @@
  <?php 
  #echo "I  am VERSION  7  " ;
  $AUTHOR = getenv('DEMO_TEXT') ;
- echo "V2 by $AUTHOR      " ;
+ echo "V3 by $AUTHOR      " ;
  echo "Pod IP: ".$_SERVER['SERVER_ADDR'] ;
  ?>
