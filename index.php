@@ -1,5 +1,5 @@
  <?php 
- # echo "I  am VERSION  7  " ;
+ # echo "I  am VERSION 10  " ;
 # test
  $AUTHOR = getenv('DEMO_TEXT') ;
  echo "V3 by $AUTHOR      " ;
