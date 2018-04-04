@@ -4,6 +4,6 @@
  $AUTHOR = getenv('DEMO_TEXT') ;
  echo "app-a V2 by $AUTHOR   " ;
  echo "Pod IP: ".$_SERVER['SERVER_ADDR'] ;
- echo file_get_contents( "/data/myconfigmap" )
-
+$configmap = file_get_contents('/data/DEMO_TEXT');
+echo $configmap;
  ?>
