@@ -2,6 +2,6 @@
  # echo "  " ;
 #        test
  $AUTHOR = getenv('DEMO_TEXT') ;
- echo "app-a V1 by $AUTHOR   " ;
+ echo "app-a V2 by $AUTHOR   " ;
  echo "Pod IP: ".$_SERVER['SERVER_ADDR'] ;
  ?>
