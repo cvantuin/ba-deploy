@@ -2,7 +2,7 @@
 $dbname="demodb";
 $dbuser="developer";
 $dbpass="developer";
-$dbhost="mariadb-101-centos7";
+$dbhost="mariadb";
 
 $version = 1;
 $author = getenv('DEMO_TEXT') ;
