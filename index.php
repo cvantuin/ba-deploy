@@ -1,9 +1,7 @@
  <?php 
- #    echo "  " ;
-#        test
  $AUTHOR = getenv('DEMO_TEXT') ;
- echo "app-a V2 by $AUTHOR   " ;
+ echo "V1 by $AUTHOR   " ;
  echo "Pod IP: ".$_SERVER['SERVER_ADDR'] ;
-#$configmap = file_get_contents('/data/DEMO_TEXT');
-#echo " $configmap";
+ # $configmap = file_get_contents('/data/DEMO_TEXT');
+ # echo " $configmap";
  ?>
